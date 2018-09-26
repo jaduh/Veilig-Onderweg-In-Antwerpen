@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Quattrocento:400,700');
+
+h1,h2{
+  font-family: 'Oswald', sans-serif;
+  color:#283c63;
+}
+
+p{
+  font-family: 'Quattrocento', serif;
+}
+
+
+.enter{
+  display: block;
+}
+
+.punt{
+color:#f85f73;
+}
+

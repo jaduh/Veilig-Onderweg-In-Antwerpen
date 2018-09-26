@@ -1,0 +1,28 @@
+.header-header{
+    height: 65vh;
+    width: 100vw;
+ 
+    background-image: linear-gradient(rgba(249,248,237,0.9),rgba(249,248,237,0.8)), url(../img/verkeer.jpg);
+   background-size: cover;
+  
+   
+}
+
+h1{
+    font-size:5rem;
+    padding: 10rem 7rem 4rem 7rem;
+    line-height: 120%;
+}
+
+.p-container{
+    display:flex;
+    padding-left:7rem;
+}
+p{
+    width:20rem;
+   padding-right:1.5rem;
+    font-family: 'Quattrocento';
+    text-align: justify;
+    color:#283c63;
+}
+
